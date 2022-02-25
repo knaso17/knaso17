@@ -1,5 +1,6 @@
-### Hi, I'm Krista👋
+### Hi, I'm Krista 👋
 
 - 🔭 I’m currently working on a React Native App
 - 🌱 I’m currently learning about Firebase and Firestore as a backend
-- :mortar_board: I'm looking forward to graduating from the Grace Hopper program this month
+- :mortar_board: I graduated from the Grace Hopper program in February
+- :mag: I'm looking for a Software Engineering job
