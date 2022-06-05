@@ -7,8 +7,7 @@
 - :mortar_board: Graduate of the Grace Hopper immersive software engineering program
 - :computer: Currently studying data structures and algorithms
 - :rewind: Doing a deep review of JavaScript fundamentals
-- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Krista-blue?style=flat&logo=Linkedin&logoColor=white)]([your-linkedin-url](https://www.linkedin.com/in/krista-naso/))
-
+- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Krista-blue?style=flat&logo=Linkedin&logoColor=white)]([https://www.linkedin.com/in/krista-naso/])
 ---
 
 ### :hammer_and_wrench: Languages and Tools:
