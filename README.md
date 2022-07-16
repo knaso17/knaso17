@@ -4,9 +4,9 @@
 
 ### :woman_technologist: About Me:
 
+- :computer: Work as a full-time Frontend Developer
 - :mortar_board: Graduate of the Grace Hopper immersive software engineering program
-- :computer: Currently studying data structures and algorithms
-- :rewind: Doing a deep review of JavaScript fundamentals
+- :nerd_face: Currently learing BEM and SCSS
 - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Krista-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/krista-naso/)
 ---
 
@@ -21,6 +21,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="Postgres" alt="Postgres" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="50" height="50"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="Sass" alt="Sass" width="50" height="50"/>
 </div>
 
 ---
